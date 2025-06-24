@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/kp-ue/:/",
-    "/content/kp-ue/configuration:/.helix/config.json",
-    "/content/kp-ue/metadata:/metadata.json"
+    "/content/kp-ue-demo/:/",
+    "/content/kp-ue-demo/configuration:/.helix/config.json",
+    "/content/kp-ue-demo/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/kp-ue/"
+    "/content/kp-ue-demo/"
   ]
 }
